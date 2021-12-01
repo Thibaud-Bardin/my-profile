@@ -1,0 +1,50 @@
+body{
+   background-color: black;
+   color: blueviolet;
+   font-family:courier;
+   font-weight: 300;
+}
+
+h1{
+	color: yellow;
+}
+h2{
+	color: skyblue;
+}
+a:hover {
+	color: floralwhite;
+}
+
+div{
+	background: black;
+	border:2px white ;
+	margin: 10px;
+}
+
+.img-circle{
+	border-radius: 50%;
+}
+#leader{
+    width: 200px;
+}
+
+div{
+     border-top: 1px solid orangered;
+     border-right: 2px dottet white;
+     border-bottom: 1px dashed orangered;
+     border-left: 2px dotted white;
+}
+
+element.style {
+width: 700px;
+margin: 30px;
+}
+
+
+    
+
+	
+
+
+
+
